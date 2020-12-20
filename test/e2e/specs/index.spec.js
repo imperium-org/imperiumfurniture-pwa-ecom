@@ -1,3 +1,4 @@
+/* globals browser */
 const Page = require('../pageObjects/main.page')
 
 describe('Example test', () => {
