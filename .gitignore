@@ -1,0 +1,31 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+yarn-error.log
+
+# other
+dist
+.idea
+.vscode
+.nuxt
+.DS_STORE
+.eslintrc
+newrelic_agent.log
+
+# docs
+/docs
+
+# @nuxtjs/pwa
+sw.*
+
+.env
+
+# Optional eslint cache
+.eslintcache
+
+# Cypress
+cypress/integration/examples
+cypress/videos
+cypress/screenshots
